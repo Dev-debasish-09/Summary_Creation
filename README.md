@@ -15,7 +15,7 @@ This project implements an **AI-powered NLP pipeline** for medical transcription
 
 ### **1. Clone the Repository**
 ```bash
- git clone https://github.com/your-repo/physician-notetaker.git
+ git clone [https://github.com/your-repo/physician-notetaker.git](https://github.com/Dev-debasish-09/Summary_Creation.git)]
  cd physician-notetaker
 ```
 
